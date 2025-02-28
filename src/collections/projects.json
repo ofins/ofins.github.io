@@ -1,38 +1,38 @@
 [
   {
     "name": "Stock Trading Automation",
-    "description": "The most awesome stock trading bot.",
+    "description": "Python/IBKR/Discord.py",
     "image": "/assets/images/projects/auto-bot.jpg",
     "url": "https://github.com/ofins/ibkr_automation"
   },
   {
     "name": "Crypto Swap Automation",
-    "description": "Monitor tokens 24/7 and swap.",
+    "description": "TypeScript/Ethers.js/Telegram",
     "image": "/assets/images/projects/crypto-automation.png",
     "url": "https://github.com/ofins/ronin-scaling-bot"
   },
   {
-    "name": "Tamsui Kickboxing",
-    "description": "Commerical website for a local gym.",
-    "image": "/assets/images/projects/tkboxing.png",
-    "url": "https://tamsui-kickboxing-git-main-ofins.vercel.app/about"
+    "name": "TamaZoo - Memecoin tracker",
+    "description": "React/Refine/Node.js/Fastify",
+    "image": "/assets/images/projects/tama.png",
+    "url": "https://tamazoo.vercel.app/"
   },
   {
     "name": "Axie Find",
-    "description": "NFT stats tracker for a popular Web3 game.",
+    "description": "React/Mui/GraphQL/Express",
     "image": "/assets/images/projects/axie-find.png",
     "url": "https://axie-find.vercel.app/"
   },
   {
-    "name": "Crypto Token Tracker",
-    "description": "Track your fav tokens with simple UI.",
-    "image": "/assets/images/projects/crypto-bags.png",
-    "url": "https://thecornerblock.netlify.app/"
-  },
-  {
     "name": "Basketball Stats Tracker",
-    "description": "Track your local basketball league stats.",
+    "description": "React/MongoDB/Express/Node.js",
     "image": "/assets/images/projects/rga.png",
     "url": "https://rga-v210.netlify.app/"
+  },
+  {
+    "name": "Tamsui Kickboxing",
+    "description": "Vue/TypeScript/Bootstrap",
+    "image": "/assets/images/projects/tkboxing.png",
+    "url": "https://tamsui-kickboxing-git-main-ofins.vercel.app/about"
   }
 ]
