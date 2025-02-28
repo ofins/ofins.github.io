@@ -21,6 +21,10 @@ jobs:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
 
+      # Install pnpm
+      - name: Install pnpm
+        run: npm install -g pnpm
+
       - name: Install dependencies
         run: pnpm install --no-frozen-lockfile
 
