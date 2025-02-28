@@ -5,6 +5,5 @@ import { defineConfig } from "astro/config";
 export default defineConfig({
   integrations: [tailwind()],
   site: "https://ofins.github.io",
-  base: "/ofins.github.io",
   output: "static",
 });
