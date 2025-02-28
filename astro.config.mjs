@@ -7,5 +7,4 @@ export default defineConfig({
   site: "https://ofins.github.io",
   base: "/ofins.github.io",
   output: "static",
-  outDir: "docs",
 });
