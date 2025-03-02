@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: Image Shift - Overcoming image shifting on hover!
+title: Image Shift - Overcoming image shifting on hover
 description: This is a common phenomenon when dealing with frontend work.
 dateFormatted: Dec 31, 2024
 ---
