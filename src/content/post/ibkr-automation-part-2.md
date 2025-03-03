@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: Automate stock trading with Python
+title: Automate stock trading with Python (PART II)
 description: A detailed post to building my trading bot, Pug.
 dateFormatted: Mar 2, 2025
 ---
