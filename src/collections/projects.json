@@ -1,42 +1,42 @@
 [
   {
-    "name": "EatWhatNow",
+    "name": "EatWhatNow (2025/May-present)",
     "description": "React/PostgreSQL/Node/Express.js",
     "image": "/assets/images/projects/eatwhatnow.png",
     "url": "https://github.com/ofins/ewn-backend"
   },
   {
-    "name": "Stock Trading Automation",
+    "name": "Stock Trading Automation (2024/12-2024/1)",
     "description": "Python/IBKR/Discord.py",
-    "image": "/assets/images/projects/auto-bot.jpg",
+    "image": "/assets/images/projects/auto-bot.png",
     "url": "https://github.com/ofins/ibkr_automation"
   },
   {
-    "name": "Crypto Swap Automation",
+    "name": "Crypto Swap Automation (2025/1-2025/3)",
     "description": "TypeScript/Ethers.js/Telegram",
     "image": "/assets/images/projects/crypto-automation.png",
     "url": "https://github.com/ofins/ronin-scaling-bot"
   },
   {
-    "name": "TamaZoo - Memecoin tracker",
+    "name": "TamaZoo - Memecoin tracker (2025/1-2025/2)",
     "description": "React/Refine/Node.js/Fastify",
     "image": "/assets/images/projects/tama.png",
     "url": "https://tamazoo.vercel.app/"
   },
   {
-    "name": "Axie Find",
+    "name": "Axie Find (2024/1-2024/3)",
     "description": "React/Mui/GraphQL/Express",
     "image": "/assets/images/projects/axie-find.png",
     "url": "https://axie-find.vercel.app/"
   },
   {
-    "name": "Basketball Stats Tracker",
+    "name": "Basketball Stats Tracker (2023/5-2023/6)",
     "description": "React/MongoDB/Express/Node.js",
     "image": "/assets/images/projects/rga.png",
     "url": "https://rga-v210.netlify.app/"
   },
   {
-    "name": "Tamsui Kickboxing",
+    "name": "Local Kickboxing Gym (2024/12)",
     "description": "Vue/TypeScript/Bootstrap",
     "image": "/assets/images/projects/tkboxing.png",
     "url": "https://tamsui-kickboxing-git-main-ofins.vercel.app/about"
