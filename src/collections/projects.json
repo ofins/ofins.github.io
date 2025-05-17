@@ -1,5 +1,11 @@
 [
   {
+    "name": "EatWhatNow",
+    "description": "React/PostgreSQL/Node/Express.js",
+    "image": "/assets/images/projects/eatwhatnow.png",
+    "url": "https://github.com/ofins/ewn-backend"
+  },
+  {
     "name": "Stock Trading Automation",
     "description": "Python/IBKR/Discord.py",
     "image": "/assets/images/projects/auto-bot.jpg",
