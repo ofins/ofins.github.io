@@ -1,5 +1,11 @@
 [
   {
+    "name": "Pair Trading Scanner (10/2025)",
+    "description": "Python",
+    "image": "/assets/images/projects/pairs_trading.png",
+    "url": "https://github.com/ofins/trade_scanner-pair_trading"
+  },
+  {
     "name": "EatWhatNow (2025/May-present)",
     "description": "React/PostgreSQL/Node/Express.js",
     "image": "/assets/images/projects/eatwhatnow.png",
@@ -36,7 +42,7 @@
     "url": "https://rga-v210.netlify.app/"
   },
   {
-    "name": "Local Kickboxing Gym (2024/12)",
+    "name": "Local Kickboxing Gym (2023/12)",
     "description": "Vue/TypeScript/Bootstrap",
     "image": "/assets/images/projects/tkboxing.png",
     "url": "https://tamsui-kickboxing-git-main-ofins.vercel.app/about"
